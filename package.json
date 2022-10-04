@@ -1,0 +1,16 @@
+{
+  "name": "bigpictureloans-m-m",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Big Picture Loans Best Of personal Loans ",
+  "keywords": [
+    "Bigpictureloans",
+    "Bigpictureloans.com",
+    "Big picture loans"
+  ],
+  "repository": "https://github.com/isntigotcha/MM.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
