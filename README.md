@@ -1,4 +1,4 @@
-# bigpictureloans-m-m theme
+# bigpictureloans-mm theme
 
 # Big Picture Loans
 Online Installment Loan Lender | Apply for your online installment loan and get up to $5000. Get the cash you need as early as the next business day.
